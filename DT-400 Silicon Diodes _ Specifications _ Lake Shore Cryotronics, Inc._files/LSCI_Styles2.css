@@ -1,0 +1,2413 @@
+﻿/* a global style reset is done here */
+
+/* begin CSS reset to reset styles to a default state so they can be modified easily*/
+.ms-WPTitle a
+{color:#355787;text-decoration:none;}
+.ms-linksection-level1 ul li a
+{color:#355787;text-decoration:none;}
+.ms-vb-user a:link
+{color:#355787;text-decoration:none;}
+.ms-vb2 a:link
+{color:#355787;text-decoration:none;}
+.ms-vb a:link
+{color:#355787;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a
+{color:#355787;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselector a
+{color:#355787;text-decoration:none;}
+a.ms-addnew
+{color:#355787;text-decoration:none;}
+.ms-menutoolbar td a
+{color:#355787;text-decoration:none;}
+.s4-ql ul.root ul > li > a
+{color:#355787;text-decoration:none;}
+.s4-ql a.selected
+{color:#355787;text-decoration:none;}
+.s4-qlheader
+{color:#355787;text-decoration:none;}
+.s4-ql ul.root > li > .menu-item
+{color:#355787;text-decoration:none;}
+.link-item a:link
+{color:#355787;text-decoration:none;}
+.link-item a
+{color:#355787;text-decoration:none;}
+.ms-WPBody a:link
+{color:#355787;text-decoration:none;}
+.s4-tn li.static > .menu-item
+{color:#355787;text-decoration:none;}
+.s4-title h2 a
+{color:#355787;text-decoration:none;}
+.s4-title h1 a
+{color:#355787;text-decoration:none;}
+.ms-linksection-level1 ul li a:visited
+{color:#355787;text-decoration:none;}
+.ms-vb-user a:visited
+{color:#355787;text-decoration:none;}
+.ms-vb2 a:visited
+{color:#355787;text-decoration:none;}
+.ms-vb a:visited
+{color:#355787;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a:visited
+{color:#355787;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselector a:visited
+{color:#355787;text-decoration:none;}
+a.ms-addnew:visited
+{color:#355787;text-decoration:none;}
+.s4-qlheader:visited
+{color:#355787;text-decoration:none;}
+.link-item a:visited
+{color:#355787;text-decoration:none;}
+.ms-WPBody a:visited
+{color:#355787;text-decoration:none;}
+.ms-disc a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-sectionheader a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-propertysheet a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-linksection-level1 ul li a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vb-user a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vb2 a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vb a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vh2-nofilter-notextalign a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vh2-nofilter a:hover
+{color:#8E2323;text-decoration:underline;}
+a.ms-toolbar:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-ltviewselectormenuheader .ms-viewselector a:hover
+{color:#8E2323;text-decoration:underline;}
+a.ms-addnew:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vh2 a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-vh a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-menutoolbar td a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-ql ul.root ul > li > a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-rtestate-field a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-qlheader:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-ql ul.root > li > a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-ql ul > li > a:hover
+{color:#8E2323;text-decoration:underline;}
+.link-item a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-WPBody a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-toplinks .s4-tn a.selected:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-tn li.static > a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-title h2 a:hover
+{color:#8E2323;text-decoration:underline;}
+.s4-title h1 a:hover
+{color:#8E2323;text-decoration:underline;}
+.ms-linksection-level1 ul li a:active
+{color:#8E2323;text-decoration:none;}
+.ms-vb-user a:active
+{color:#8E2323;text-decoration:none;}
+.ms-vb2 a:active
+{color:#8E2323;text-decoration:none;}
+.ms-vb a:active
+{color:#8E2323;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a:active
+{color:#8E2323;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselector a:active
+{color:#8E2323;text-decoration:none;}
+a.ms-addnew:active
+{color:#8E2323;text-decoration:none;}
+.link-item a:active
+{color:#8E2323;text-decoration:none;}
+.ms-navitem a:link
+{color:#355787!important;text-decoration:none!important;}
+.ms-selectorlink a:visited
+{color:#355787!important;text-decoration:none!important;}
+.ms-selectorlink a
+{color:#355787!important;text-decoration:none!important;}
+.ms-addnew a
+{color:#355787!important;text-decoration:none!important;}
+.ms-viewlsts .ms-vb2 > a
+{color:#355787!important;text-decoration:none!important;}
+.s4-ql a.selected
+{color:#355787!important;text-decoration:none!important;}
+.ms-navitem a:visited{color:#355787!important;text-decoration:none!important;}
+.ms-addnew a:visited{color:#355787!important;text-decoration:none!important;}
+.ms-viewlsts .ms-vb2 > a:visited{color:#355787!important;text-decoration:none!important;}
+.s4-ql a.selected:visited{color:#355787!important;text-decoration:none!important;}
+.ms-WPTitle a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.ms-navitem a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.ms-selectorlink a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+tr.ms-itmhover a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+tr.s4-itm-hover a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.ms-addnew a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.ms-viewlsts .ms-vb2 > a:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.s4-ql a.selected:hover
+{color:#8E2323!important;text-decoration:underline!important;}
+.ms-navitem a:active
+{color:#8E2323!important;text-decoration:none!important;}
+.ms-addnew a:active
+{color:#8E2323!important;text-decoration:none!important;}
+.ms-viewlsts .ms-vb2 > a:active
+{color:#8E2323!important;text-decoration:none!important;}
+.s4-ql a.selected:active
+{color:#8E2323!important;text-decoration:none!important;}
+.ms-surveyTotal
+{font-family:inherit;}
+.ms-surveyVBarTC
+{font-family:inherit;}
+.ms-surveyVBarT
+{font-family:inherit;}
+.ms-gridT1
+{font-family:inherit;}
+.ms-gridCol
+{font-family:inherit;}
+.ms-formbodysurvey
+{font-family:inherit;}
+table tr td.ms-disc-bordered-noleft
+{font-family:inherit;}
+table.ms-disc td
+{font-family:inherit;}
+.ms-rtefield
+{font-family:inherit;}
+.ms-lookuptypeintextbox
+{font-family:inherit;}
+.ms-rtedropdown
+{font-family:inherit;}
+.ms-radiotext
+{font-family:inherit;}
+.ms-rtelonger
+{font-family:inherit;}
+.ms-longer
+{font-family:inherit;}
+.ms-rtelong
+{font-family:inherit;}
+groupheader
+{font-family:inherit;}
+.medium
+{font-family:inherit;}
+.ms-WPBody td
+{font-family:inherit;}
+.level-description
+{font-family:inherit;}
+.headertitle-small a:link
+{font-family:inherit;}
+.headertitle-small a
+{font-family:inherit;}
+.headertitle-small
+{font-family:inherit;}
+.headertitle-large a:link
+{font-family:inherit;}
+.headertitle-large a
+{font-family:inherit;}
+.headertitle-large
+{font-family:inherit;}
+.headertitle-band a:link
+{font-family:inherit;}
+.headertitle-band a
+{font-family:inherit;}
+.headertitle-band
+{font-family:inherit;}
+.level-item a:link
+{font-family:inherit;}
+.level-item a
+{font-family:inherit;}
+.level-item
+{font-family:inherit;}
+.headertitle a:link
+{font-family:inherit;}
+.headertitle a
+{font-family:inherit;}
+.headertitle
+{font-family:inherit;}
+div.title-With-Background a:active
+{font-family:inherit;}
+div.title-With-Background a:visited
+{font-family:inherit;}
+div.title-With-Background a:hover
+{font-family:inherit;}
+div.title-With-Background a:link
+{font-family:inherit;}
+div.title-With-Background a
+{font-family:inherit;}
+.link-item-large a:link
+{font-family:inherit;}
+.link-item-large a
+{font-family:inherit;}
+.link-item-large
+{font-family:inherit;}
+.ms-WPTitle
+{font-family:inherit;}
+.ms-wpadder-zoneArea button
+{font-family:inherit;}
+.ms-wpadder-description
+{font-family:inherit;}
+.ms-wpadder-tabTable th
+{font-family:inherit;}
+.ms-wpadder-upload button
+{font-family:inherit;}
+.ms-wpadder-upload input
+{font-family:inherit;}
+.ms-wpadder-items
+{font-family:inherit;}
+.ms-wpadder-categoryColumn td
+{font-family:inherit;}
+.ms-wpadder-categoryColumn
+{font-family:inherit;}
+.ms-wpadder-wpname
+{font-family:inherit;}
+.ms-wpadder-sectionhead
+{font-family:inherit;}
+.ms-SPButton
+{font-family:inherit;}
+.ms-SPZoneLabel
+{font-family:inherit;}
+.ms-listedit .ms-descriptiontext
+{font-family:inherit;}
+.ms-listedit .ms-propertysheet
+{font-family:inherit;}
+.ms-listedit .ms-pageinformation table td
+{font-family:inherit;}
+.ms-listedit table.ms-pageinformation
+{font-family:inherit;}
+.ms-listedit .ms-linksectionheader .ms-standardheader
+{font-family:inherit;}
+.ms-listedit .ms-linksectionheader
+{font-family:inherit;}
+.ms-listedit .ms-standardheader
+{font-family:inherit;}
+.ms-paging
+{font-family:inherit;}
+.ms-formdescription
+{font-family:inherit;}
+.ms-propertysheet
+{font-family:inherit;}
+th.ms-vh2-nograd-icon
+{font-family:inherit;}
+th.ms-vh2-nograd
+{font-family:inherit;}
+.ms-vh2-nofilter-icon
+{font-family:inherit;}
+th .ms-vb
+{font-family:inherit;}
+.ms-linksectionheader
+{font-family:inherit;}
+.ms-createpageinformation table td
+{font-family:inherit;}
+.ms-pageinformation table td
+{font-family:inherit;}
+table.ms-createpageinformation
+{font-family:inherit;}
+table.ms-pageinformation
+{font-family:inherit;}
+.ms-pageinformation h3.ms-standardheader
+{font-family:inherit;}
+.ms-linksection-level1
+{font-family:inherit;}
+.ms-sectionheader
+{font-family:inherit;}
+.description
+{font-family:inherit;}
+.ms-formfieldlabelcontainer
+{font-family:inherit;}
+div.ms-formfieldlabelcontainer span.ms-formfieldlabel
+{font-family:inherit;}
+.ms-toolbarContainer
+{font-family:inherit;}
+.ms-inputuserfield
+{font-family:inherit;}
+.ms-long
+{font-family:inherit;}
+.ms-input
+{font-family:inherit;}
+select
+{font-family:inherit;}
+.ms-formtoolbar
+{font-family:inherit;}
+.ms-descriptiontext
+{font-family:inherit;}
+.ms-formlabel
+{font-family:inherit;}
+.ms-dlgTitleText
+{font-family:inherit;}
+td.ms-vb
+{font-family:inherit;}
+th.ms-vh
+{font-family:inherit;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a
+{font-family:inherit;}
+.ms-ltviewselectormenuheader .ms-viewselector a
+{font-family:inherit;}
+a.ms-addnew
+{font-family:inherit;}
+td.ms-vb
+{font-family:inherit;}
+.ms-ph
+{font-family:inherit;}
+.ms-pb-selected
+{font-family:inherit;}
+.ms-pb
+{font-family:inherit;}
+.ms-vh2-nofilter-icon
+{font-family:inherit;}
+.ms-vh2-nograd-icon
+{font-family:inherit;}
+.ms-vh3-nograd
+{font-family:inherit;}
+.ms-vh2-nograd
+{font-family:inherit;}
+.ms-vb-user
+{font-family:inherit;}
+.ms-vb-tall
+{font-family:inherit;}
+.ms-vb2
+{font-family:inherit;}
+.ms-vb
+{font-family:inherit;}
+.ms-gbload
+{font-family:inherit;}
+.ms-gb2
+{font-family:inherit;}
+.ms-gb
+{font-family:inherit;}
+.ms-vhImage
+{font-family:inherit;}
+.ms-vh-icon-empty
+{font-family:inherit;}
+.ms-vh-icon
+{font-family:inherit;}
+.ms-vh2
+{font-family:inherit;}
+.ms-vh
+{font-family:inherit;}
+.ms-vh2-nofilter-notextalign
+{font-family:inherit;}
+.ms-vh2-nofilter
+{font-family:inherit;}
+.ms-viewselectorhover
+{font-family:inherit;}
+.ms-viewselectortext
+{font-family:inherit;}
+.ms-viewselector
+{font-family:inherit;}
+.ms-listheaderlabel
+{font-family:inherit;}
+.ms-toolbar
+{font-family:inherit;}
+.ms-menutoolbar td a
+{font-family:inherit;}
+.ms-WPBody
+{font-family:inherit;}
+.link-item a:link
+{font-family:inherit;}
+.link-item a
+{font-family:inherit;}
+.link-item
+{font-family:inherit;}
+body #pageStatusBar
+{font-family:inherit;}
+.ms-sbtable
+{font-family:inherit;}
+.ms-sbplain
+{font-family:inherit;}
+.ms-socialNotif-Container
+{font-family:inherit;}
+.s4-titletable
+{font-family:inherit;}
+.ms-cui-toolbar-toolbar
+{font-family:inherit;}
+div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div
+{font-family:inherit;}
+div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner
+{font-family:inherit;}
+div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen
+{font-family:inherit;}
+.ms-welcomeMenu
+{font-family:inherit;}
+.ms-siteactionsmenuhover
+{font-family:inherit;}
+.ms-siteactionsmenuinner
+{font-family:inherit;}
+.ms-cui-menu
+{font-family:inherit;}
+.ms-cui-ribbon
+{font-family:inherit;}
+.ms-selectorlink a:visited
+{font-family:inherit!important;}
+.ms-selectorlink a
+{font-family:inherit!important;}
+.ms-gridCol
+{font-size:1em;}
+table tr td.ms-disc-bordered-noleft
+{font-size:1em;}
+table.ms-disc td
+{font-size:1em;}
+.ms-rtefield
+{font-size:1em;}
+.ms-lookuptypeintextbox
+{font-size:1em;}
+.ms-rtedropdown
+{font-size:1em;}
+.ms-radiotext
+{font-size:1em;}
+.ms-rtelonger
+{font-size:1em;}
+.ms-longer
+{font-size:1em;}
+.ms-rtelong
+{font-size:1em;}
+groupheader
+{font-size:1em;}
+.medium
+{font-size:1em;}
+.ms-WPBody td
+{font-size:1em;}
+.headertitle
+{font-size:1em;}
+.level-description
+{font-size:1em;}
+.level-item a:link
+{font-size:1em;}
+.level-item a
+{font-size:1em;}
+.level-item
+{font-size:1em;}
+.ms-WPTitle
+{font-size:1em;}
+.ms-wpadder-zoneArea button
+{font-size:1em;}
+.ms-wpadder-description
+{font-size:1em;}
+.ms-wpadder-tabTable th
+{font-size:1em;}
+.ms-wpadder-upload button
+{font-size:1em;}
+.ms-wpadder-upload input
+{font-size:1em;}
+.ms-wpadder-items
+{font-size:1em;}
+.ms-wpadder-categoryColumn td
+{font-size:1em;}
+.ms-wpadder-categoryColumn
+{font-size:1em;}
+.ms-SPButton
+{font-size:1em;}
+.ms-SPZoneLabel
+{font-size:1em;}
+.ms-linksectionheader
+{font-size:1em;}
+.ms-listedit .ms-linksectionheader .ms-standardheader
+{font-size:1em;}
+.ms-listedit .ms-linksectionheader
+{font-size:1em;}
+.ms-listedit .ms-standardheader
+{font-size:1em;}
+.ms-paging
+{font-size:1em;}
+.ms-authoringcontrols
+{font-size:1em;}
+.ms-formdescription
+{font-size:1em;}
+th.ms-vh2-nograd-icon
+{font-size:1em;}
+th.ms-vh2-nograd
+{font-size:1em;}
+.ms-vh2-nofilter-icon
+{font-size:1em;}
+th .ms-vb
+{font-size:1em;}
+.ms-createpageinformation table td
+{font-size:1em;}
+.ms-pageinformation table td
+{font-size:1em;}
+table.ms-createpageinformation
+{font-size:1em;}
+table.ms-pageinformation
+{font-size:1em;}
+.ms-pageinformation h3.ms-standardheader
+{font-size:1em;}
+.ms-linksection-level1 ul li a
+{font-size:1em;}
+.ms-linksection-level1 h3
+{font-size:1em;}
+.description
+{font-size:1em;}
+.ms-formfieldlabelcontainer
+{font-size:1em;}
+div.ms-formfieldlabelcontainer span.ms-formfieldlabel
+{font-size:1em;}
+.ms-toolbarContainer
+{font-size:1em;}
+.ms-inputuserfield
+{font-size:1em;}
+.ms-dttimeinput
+{font-size:1em;}
+.ms-dtinput
+{font-size:1em;}
+.ms-long
+{font-size:1em;}
+.ms-input
+{font-size:1em;}
+select
+{font-size:1em;}
+.ms-formtoolbar
+{font-size:1em;}
+.ms-descriptiontext
+{font-size:1em;}
+.ms-dlgTitleText
+{font-size:1em;}
+.s4-titletable
+{font-size:1em;}
+td.ms-vb
+{font-size:1em;}
+th.ms-vh
+{font-size:1em;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover a
+{font-size:1em;}
+.ms-ltviewselectormenuheader .ms-viewselector a
+{font-size:1em;}
+a.ms-addnew
+{font-size:1em;}
+td.ms-vb
+{font-size:1em;}
+.ms-ph
+{font-size:1em;}
+.ms-pb-selected
+{font-size:1em;}
+.ms-pb
+{font-size:1em;}
+.ms-vh2-nofilter-icon
+{font-size:1em;}
+.ms-vh2-nograd-icon
+{font-size:1em;}
+.ms-vh3-nograd
+{font-size:1em;}
+.ms-vh2-nograd
+{font-size:1em;}
+.ms-vb-user
+{font-size:1em;}
+.ms-vb-tall
+{font-size:1em;}
+.ms-vb2
+{font-size:1em;}
+.ms-vb
+{font-size:1em;}
+.ms-gbload
+{font-size:1em;}
+.ms-gb2
+{font-size:1em;}
+.ms-gb
+{font-size:1em;}
+.ms-vhImage
+{font-size:1em;}
+.ms-vh-icon-empty
+{font-size:1em;}
+.ms-vh-icon
+{font-size:1em;}
+.ms-vh2
+{font-size:1em;}
+.ms-vh
+{font-size:1em;}
+.ms-vh2-nofilter-notextalign
+{font-size:1em;}
+.ms-vh2-nofilter
+{font-size:1em;}
+.ms-viewselectorhover
+{font-size:1em;}
+.ms-viewselectortext
+{font-size:1em;}
+.ms-viewselector
+{font-size:1em;}
+.ms-listheaderlabel
+{font-size:1em;}
+.ms-toolbar
+{font-size:1em;}
+.ms-menutoolbar td a
+{font-size:1em;}
+.s4-qlheader:visited
+{font-size:1em;}
+.s4-qlheader
+{font-size:1em;}
+.s4-ql ul.root > li > .menu-item
+{font-size:1em;}
+.ms-WPBody
+{font-size:1em;}
+.link-item a:link
+{font-size:1em;}
+.link-item a
+{font-size:1em;}
+.link-item
+{font-size:1em;}
+.s4-search input
+{font-size:1em;}
+.ms-sbplain
+{font-size:1em;}
+.s4-search input.ms-sbplain
+{font-size:1em;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILargeRtL ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink
+{font-size:1em;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILarge ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink
+{font-size:1em;}
+.ms-menuuilabelcompactRtl
+{font-size:1em;}
+.ms-menuuilabelcompact
+{font-size:1em;}
+.ms-MenuUILabelRtL
+{font-size:1em;}
+.ms-MenuUILabel
+{font-size:1em;}
+.ms-cui-toolbar-toolbar
+{font-size:1em;}
+.ms-cui-TabRowLeft
+{font-size:1em;}
+.s4-breadcrumb-menu
+{font-size:1em;}
+.ms-siteactionsmenu
+{font-size:1em;}
+.ms-cui-menu
+{font-size:1em;}
+.ms-cui-ribbon
+{font-size:1em;}
+table.ms-disc td
+{color:inherit;}
+.ms-rtefield
+{color:inherit;}
+groupheader
+{color:inherit;}
+.medium
+{color:inherit;}
+.headertitle
+{color:inherit;}
+.level-description
+{color:inherit;}
+.ms-rteElement-P
+{color:inherit;}
+.ms-SPZoneLabel
+{color:inherit;}
+.ms-SPZoneTitle
+{color:inherit;}
+.tmt-name
+{color:inherit;}
+.ms-listedit .ms-gb .ms-vh2
+{color:inherit;}
+.ms-listedit .ms-gb .ms-vh2-nofilter
+{color:inherit;}
+.ms-listedit .ms-linksectionheader .ms-standardheader
+{color:inherit;}
+.ms-listedit .ms-linksectionheader
+{color:inherit;}
+.ms-listedit .ms-standardheader
+{color:inherit;}
+.ms-paging
+{color:inherit;}
+.ms-bottompaging .ms-paging
+{color:inherit;}
+.ms-createpageinformation table td
+{color:inherit;}
+.ms-pageinformation table td
+{color:inherit;}
+.ms-propertysheet
+{color:inherit;}
+.ms-ph
+{color:inherit;}
+.ms-vh2-nofilter-icon
+{color:inherit;}
+.ms-vh2-nograd-icon
+{color:inherit;}
+.ms-vh3-nograd
+{color:inherit;}
+.ms-vh2-nograd
+{color:inherit;}
+.ms-vhImage
+{color:inherit;}
+.ms-vh-icon-empty
+{color:inherit;}
+.ms-vh2
+{color:inherit;}
+.ms-vh
+{color:inherit;}
+th.ms-vh2-nograd-icon
+{color:inherit;}
+th.ms-vh2-nograd
+{color:inherit;}
+.ms-vh2-nofilter-icon
+{color:inherit;}
+th .ms-vb
+{color:inherit;}
+.ms-createpageinformation th
+{color:inherit;}
+.ms-pageinformation th
+{color:inherit;}
+.ms-linksectionheader
+{color:inherit;}
+.ms-linksectionheader .ms-standardheader
+{color:inherit;}
+.ms-pageinformation h3.ms-standardheader
+{color:inherit;}
+.ms-linksection-level1 h3
+{color:inherit;}
+.ms-sectionheader
+{color:inherit;}
+.link-item
+{color:inherit;}
+.description
+{color:inherit;}
+.ms-toolbarContainer
+{color:inherit;}
+.ms-formtoolbar
+{color:inherit;}
+.ms-descriptiontext
+{color:inherit;}
+.ms-formlabel
+{color:inherit;}
+.ms-vh2-nofilter-notextalign
+{color:inherit;}
+.ms-vh2-nofilter
+{color:inherit;}
+.s4-specialNavLinkList a:hover > span.ms-splinkbutton-text
+{color:inherit;}
+.ms-viewlsts-noitems > b
+{color:inherit;}
+.ms-vb2
+{color:inherit;}
+.ms-vb
+{color:inherit;}
+.ms-pb-selected td
+{color:inherit;}
+.ms-pb
+{color:inherit;}
+.ms-vb-user
+{color:inherit;}
+.ms-vb-tall
+{color:inherit;}
+.ms-gbload
+{color:inherit;}
+.ms-gb2
+{color:inherit;}
+.ms-gb
+{color:inherit;}
+.ms-standardheader
+{color:inherit;}
+.ms-gb .ms-standardheader
+{color:inherit;}
+.ms-listheaderlabel
+{color:inherit;}
+.ms-toolbar
+{color:inherit;}
+.s4-title .s4uniqpermdescription
+{color:inherit;}
+.s4-title .s4-pagedescription
+{color:inherit;}
+.welcome-content
+{color:inherit;}
+.article-content
+{color:inherit;}
+.s4-search input.ms-sbplain
+{color:inherit;}
+.s4-search select.ms-sbscopes
+{color:inherit;}
+.ms-socialNotif-text
+{color:inherit;}
+.s4-title h2
+{color:inherit;}
+.ms-viewlsts th.ms-vh2-nofilter
+{color:inherit!important;}
+a.ms-socialNotif
+{text-decoration:none;}
+.s4-specialNavLinkList a:hover > span.ms-splinkbutton-text
+{text-decoration:none;}
+.ms-menutoolbar td a:hover
+{text-decoration:none;}
+.ms-menutoolbar td a
+{text-decoration:none;}
+.ms-siteactionsmenu > span > a
+{text-decoration:none;}
+.ms-cui-menu a:active
+{text-decoration:none;}
+.ms-cui-menu a:hover
+{text-decoration:none;}
+.ms-cui-menu a:visited
+{text-decoration:none;}
+.ms-cui-menu a:link
+{text-decoration:none;}
+.ms-cui-ribbon a:active
+{text-decoration:none;}
+.ms-cui-ribbon a:hover
+{text-decoration:none;}
+.ms-cui-ribbon a:visited
+{text-decoration:none;}
+.ms-cui-ribbon a:link
+{text-decoration:none;}
+/* end css reset */
+
+
+
+/*///// begin body series ///// */
+.whitebordertable {
+	border: 1px solid #FFF !important;
+}
+.graybordertable {
+	border: 1px solid #c5c5c5 !important;
+}
+
+#PlaceHolderTopNavBar {
+width:362px !important;
+}
+
+body {
+	background-color: #e2e2e2;
+	margin: 0px;
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+body #s4-workspace {
+	background-color: #e2e2e2;
+	background-image:url('http://www.lakeshore.com/publishingimages/BackGradient.png') !important;
+	background-repeat:repeat-x;
+}
+/* remove blue border around image links */
+body img{
+	border:none;
+}
+/* fix white line of pixels in banner image */
+#onetidHeadbnnr2 {
+	border: 1px solid #e2e2e2 !important;
+}
+/* ////////// Styles in the Markup Styles Dropdown /////////*/
+p.ms-rteElement-pBarHeading4 {
+	-ms-name: "Blue Background text";
+	color: white;
+	background-color:#5e5e5e;
+	padding: 2px;
+	width:100%;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.barheading {
+	color: white;
+	background-color: #e2e2e2;
+	padding: 2px 0px 2px 7px;
+	width:auto;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 12px;
+}
+h3.ms-rteElement-h3BarHeading1 {
+	-ms-name:"Blue Bar Heading";
+	color: white;
+	background-color: #003057;
+	padding: 2px 0px 2px 7px;
+	width:auto;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3.ms-rteElement-h3BarHeading2 {
+	-ms-name:"Gray Bar Heading";
+	color: white;
+	background-color:#666666;
+	padding: 2px;
+	width:100%;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3.ms-rteElement-h3BarHeading3 {
+	-ms-name:"Light Blue Bar Heading";
+	color: black;
+	background-color:#d8e0ec;
+	padding: 2px;
+	width:100%;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bodytext {
+	-ms-name:"Body Text";
+	color:black;
+}
+p.ms-rteElement-pBodyText {
+	-ms-name:"Body Text";
+	color:black;
+}
+.nh {
+	font-size: 14px !important;
+	color: black !important;
+	font-weight: bold !important;
+	font-family: Calibri, Arial, Helvetica, sans-serif !important;	
+}
+h3.ms-rteElement-h5NormalHeading {
+	-ms-name:"Normal Heading";
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+h5.ms-rteElement-h5NormalHeading {
+	-ms-name:"Normal Heading";
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+h5.ms-rteElement-h5NormalHeading2 {
+	-ms-name:"Blue Heading";
+	font-size: 14px;
+	color: #e2e2e2;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+span.ms-rteElement-spanItalics {
+	-ms-name: "Italics";
+	font-style: italic;
+	color: black;
+}
+.SquareBullets {
+	list-style-type: square;
+	color: black !important;
+}
+li.ms-rteElement-liSquareBullets {
+	-ms-name: "Square Bullets";
+	list-style-type: square;
+	color: black;
+}
+/* change list style to square bullets in model features */
+.ModelFeatures ul li {
+	list-style: square;
+}
+h3.ms-rteElement-h3OIHeading {
+	-ms-name: "Orange Heading";
+	color: #d87900;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p.ms-rteElement-pIndent {
+	-ms-name: "Indent";
+	padding-left: 10px;
+	font-family: Tahoma;
+}
+span.ms-rteElement-spanIndent2 {
+	-ms-name: "Indent Span";
+	padding-left: 10px;
+}
+ol.ms-rteElement-olOtherOL {
+	-ms-name: "Ordered List";
+	color: red;
+}
+ol.ms-rteElement-olOtherOL {
+	-ms-name: "Ordered List";
+	color: red;
+}
+
+/* table for ms-rte styling
+.ms-rteTable-LSCI1 {
+	border: 1px solid white;
+  -ms-name: "LSCI Table";
+  text-align:center;
+  background-color:#e2e4d3;
+}
+.ms-rteTableHeaderRow-LSCI1 {
+	background-color: #e2e2e2;
+	text-align:center;
+	color: white;
+	vertical-align: middle;
+	font-weight: bold;
+}*/
+/* end markup dropdown table style */
+/* ////////// end ms-rte styles ////////// */
+
+/* model landing page */
+.MLTable {
+	background-color: White;
+	border: 3px solid white;
+	width: 100%;
+	text-align:center;
+}
+.MLInsideTable {
+	background-color: #e2e2e2;
+}
+.MLBorderCell {
+	border: 6px solid white !important;
+	background-color: #e2e2e2;
+}
+.MLTitleCell {
+	background-color:#174162;
+	color: white !important;
+	height: 20px;
+	font-size: 14px !important;
+	text-align:center;
+	font-weight: bold;
+	vertical-align: middle;
+	margin-top: 3px;
+}
+.MLTitleCell a {
+	color:white !important;
+}
+.MLTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+DIV.MLTitleHeading {
+	font-family: Calibri, Arial, Helvetica, sans-serif !important;
+	font-weight: bold !important;
+	color:black !important;
+	font-size: 200% !important;
+}
+.MLTextLink {
+	text-align:center;
+	padding-left:10px;
+	padding-right:10px;
+	font-size: 13px;
+	color: #0072bc;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 20px;
+}
+.MLFeatures {
+	text-align: left;
+	line-height:1em !important;
+	margin-bottom: 3px !important;
+	color: black;
+	font-size: 12px;
+	font-family: Calibri, Arial, Helvetica, sans-serif !important;
+	list-style: square;
+}
+.MLFeatures ul li {
+	list-style: square;
+}
+.MLFeatures h3 {
+	padding-left: 25px;
+	padding-right: 20px;
+}
+.MLDescription {
+	text-align: left;
+	color: black;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	list-style: square;
+}
+.MLAvailabilityCell {
+	padding: 5px;
+}
+.MLFeatures {
+	padding: 5px;
+}
+.MLDescription {
+	padding: 5px;
+}
+.MLAvailabilityCell, .MLAvailability {
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
+.availability {
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+/*.ms-rteTableOddRow-LSCI1 {
+	color:black;
+	background:#FFFFDD;
+}
+.ms-rteTableEvenRow-LSCI1 {
+	color:black;
+	background:#FFB4B4;
+}*/
+/* end model landing page */
+/* begin model overview page */
+.ModelImageCell, .ModelImage {
+/* 	text-align:center; */
+	padding-top: 15px;
+}
+.MOverview {
+	margin-top: 9px;
+}
+/* end model overview styling */
+/* majority of tables table styling */
+
+.snovTable {
+	margin-top: 8px;
+}
+.snovTableHead {
+	background-color: #003057;
+	text-align:center;
+	color: white !important;
+	vertical-align: middle !important;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px !important;
+	padding: 0px 0px 0px 5px;
+	line-height: 1.8em;
+}
+.snovSubcat {
+	background-color: #0072bc;
+	color: white !important;
+	font-weight: bold;
+	text-align: left !important;
+	font-family: Calibri, Arial, Helvetica, sans-serif !important;
+	font-size: 14px !important;
+	height: 15px;
+	line-height: 1.8em;
+}
+th.snovSubCat {
+	height: 15px;
+}
+.defaultTable th {
+	border: 1px solid white;
+	text-align: center;
+}
+.defaultTable td {
+	border: 1px solid white;
+	text-align: center;
+}
+.defaultTable {
+	border: 1px solid white;
+	text-align: center;
+}
+.snovcellTitle {
+	text-align: left !important;
+}
+.defaultTable tr {
+	background-color: #b8b8b8;
+}
+.oddRows {
+	background-color: #d8e0ec !important;
+}
+.ms-alternating {
+	background-color: #d8e0ec !important;
+}
+.ms-alternating2 {
+	background-color: #bdc4d1 !important;
+}
+
+.evenRows {
+	background-color: #b8b8b8;
+}
+.O_Row {
+	height: 30px;
+}
+.snovTable tr td{
+	color: black;
+	line-height: 1.4;
+}
+.firstColumn {
+	font-weight: bold;
+}
+.snovTableHeadTS {
+	background-color:#0072bc; 
+	color:white;
+}
+.snovcell {
+	text-align: center;
+	color: black !important;
+}
+/* header for Similar Items web part */
+.aiiHeader {
+	color: #d87900;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+.aiiHeaderCell {
+	padding: 0px;
+	margin: 0px;
+}
+.aiiHR {
+	border-top: 1px dotted # b4c3d1;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+/* top nav */
+.s4-pr {
+	width: 1100px;
+}
+#s4-bodyContainer {
+	width: 1100px !important;	
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+.s4-tn A.selected {
+	background: #e2e2e2 !important;
+	margin: 0px !important;
+	color: white !important;
+	border: none !important;
+}
+div #s4-topheader2 {
+	background: #e2e2e2 !important;
+	margin: 0px !important;
+	color: white !important;
+	border: none !important;
+}
+.menu-horizontal {
+	display: none;
+}
+.RadMenu {
+	float:right !important;
+}
+.RadMenu_SP2007TopLevelNavigation .group {
+	border: 1px solid #bfbfbf !important;
+}
+/* end top nav fixes */
+/*.ms-bodyareacell {
+	padding-left: 5px;
+	padding-right: 5px;
+}*/
+.s4-tn LI.static > .menu-item {
+	color: white;
+}
+div #s4-mainarea {
+	vertical-align: top;
+	background-color:#FFFFFF;
+}
+#bottomLinks {
+	text-align:center; 
+	margin-bottom: 10px;
+}
+.footer {
+	background-color: #FFFFFF;
+	font-size: 12px;
+	color: #4c7db7;
+	line-height:14px;
+	width: 100%;
+	text-align: center;
+ 	height: 32px;
+ 	margin-bottom: 10px;
+}
+/* remove margin */
+.s4-ca {
+	margin: 0px;
+}
+/*////////// search bar //////////////*/
+/* alignment */
+#searchLayout input { 
+	background: transparent url('http://www.lakeshore.com/PublishingImages/search.png') left no-repeat; 
+	padding-left: 25px; 
+}
+.ms-sbcell { 
+	background-color: white; 
+	border-color: white; 
+	font-size: 12pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #C0C0C0;	
+}
+.s4-search input.ms-sbplain {
+	width: 172px !important;
+	background: white url('http://www.lakeshore.com/PublishingImages/search.png') left no-repeat; 
+	padding-left: 20px !important;
+	height: 19px !important;
+}
+.s4-search .ms-sbtable-ex {
+	margin: 1px;
+}
+.s4-search {
+	margin-right: 20px !important;
+	margin-top: 2px;
+}
+.s4-searchbox-QueryPrompt {
+	font-style: normal !important;
+	font-size: 12px !important;
+	font-family: Arial, Helvetica, sans-serif;
+	vertical-align: middle;	
+}
+.srch-gosearchimg {
+	display: none;
+}
+
+/*//////////// end seach styling ////////////*/
+
+/* make top banner fit */
+.s4-titletable {
+	height: 75px;
+}
+/* stretch ribbon full page width */
+#s4-ribbonrow{
+	width: 100%;
+}
+
+.s4-ribbonrowhidetitle{
+	width: 100%;
+}
+
+/*////// headings //////*/
+.homeHeading {
+	font-weight: bold;
+	color: #00205a;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.HomeHeadingLinked {
+	font-weight: bold;
+	color: #355787;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.rightRailLI {
+	margin-bottom:10px;
+}
+.largerLink {
+	color: blue !important;
+	font-size: 14px;
+}
+/* ordering page orange headings */
+.OIHeading {
+	color: #d87900;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p{	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+}
+h5{
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4{	
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3{	
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2{	
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{	
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*///// end headings /////*/
+/* square bullets for all unordered lists 
+ul li {
+	list-style-type: square;
+}*/
+/*///// link styling /////*/
+a{	
+	color: 	#0072bc !important;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
+a:visited {
+	text-decoration: none;
+	color: #355787;
+}
+/*///// end link styling /////*/
+/*body centered and sized */
+/* product page layout styles */
+.topzone {
+	margin:0px !important;
+	width: 100%;
+}
+/*//////// product master page //////*/
+DIV.leftbread {
+	float:left;
+	/*position:relative;*/
+	padding-left: 40px;
+	padding-top: 10px;
+}
+DIV.rightbread {
+	float:right;
+	position:relative;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+DIV.Breadcrumb {
+	display: inline-block;
+	width: 100%;
+}
+/* product category pages */
+.prodLink a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;	
+	color: #0072bc !important;
+}
+.pcInnerTable {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+.pcInnerTableProductsPage {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+.pcDescCell {
+	padding: 3px 0px 0px 0px;
+	margin: 0px;
+	vertical-align: top;
+}
+.pcDescCell div {
+	padding: 3px 0px 0px 10px;
+	margin: 0px 0px 15px 0px;
+	vertical-align: top;
+}
+/*///////// home master /////////// */
+.topWrapper { 
+	background: #e2e2e2; 
+	width: 100%; 
+	display: inline-block;
+}
+.clear {
+	clear: both;
+}
+/* Tab styles for OMSOD Pages */
+ul#OMSOD_Tabs { 
+	text-align: center; 
+	font-size: 15px; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	border-bottom: 1px solid gray; 
+	list-style-type: none;
+	height: 27px;
+	padding: 0px;
+}
+ul#OMSOD_Tabs li { /* do not change */
+	display: inline;
+}
+ul#OMSOD_Tabs li a { /* settings for all tab links */
+	background: #999999;
+	color: white !important; /* set unselected tab link color as desired */
+	margin-right: 1px; /* set additional spacing between tabs as desired */
+	text-decoration: none;
+	border-bottom: none;
+	min-width: 191px;
+	height: 23px;
+	display:inline-block;
+	padding-top: 4px;
+}
+ul#OMSOD_Tabs a:hover { /* settings for hover effect */
+	background: #666666;
+}
+ul#OMSOD_Tabs .ActiveTab a{
+	background: #d87900 !important;
+}
+.tab3 {
+	color: #d87900 !important;
+}
+/* end tab styles */
+/* begin cart button styles */
+/*a.AddToCartButton{
+	background:url('http://www.lakeshore.com/PublishingImages/CartAdd.png') no-repeat;
+	height: 23px;
+	width: 101px;
+	color: white !important;
+	padding: 3px 0px 0px 17px;
+	font-size: 14px;
+	text-decoration:none;
+	display:inline-block;
+	margin-right: -14px;
+}
+a.ViewCartButton{
+	background:url('http://www.lakeshore.com/PublishingImages/CartView.png') no-repeat;
+	height: 23px;
+	width: 124px;
+	color: white !important;
+	padding: 3px 0px 0px 42px;
+	font-size: 14px;
+	text-decoration:none;
+	display:inline-block;
+	margin-right: -39px;*/
+}
+/* end cart buttons styles */
+/*/////// metadata nav & input screen over top of all zones ////////*/
+#mv-metaeditpanel {
+	z-index: 99;
+	background: white;
+}
+
+/* Padding settings for the alignment and positioning of the root menus */
+.item {
+  padding:0px 0px 0px 0px !important;
+  height:100%;
+}
+/* ///// Table Styles (keep these styles above the lead time styles in this style sheet for proper coloring) ///// */ 
+/* set cells of ordering page table */
+td .cellSet {
+	width: 20px;
+	text-align: center;
+}
+.orderingInnerTable, .accInc {
+	color: black;
+	font-size: 12px;
+	border-bottom: none !important;
+	border-top: none !important;
+	border-left: none !important;
+	border-right: none !important;
+}
+/* fix first cell of ordering page table */
+td .LeadTimeCell {
+	background-color:gray; 
+	color: white;
+}
+/* change "obsolete" text to red */
+.obsolete {
+	color: red !important;
+	padding: 0px;
+}
+/*//////////// Lead Time Colors for "ordering" page ///////////*/
+.Lead1 { background-color: #6c92c4 !important; text-align: center;}
+.Lead2 { background-color: #91bfdb !important; text-align: center;}
+.Lead3 { background-color: #ffffbf !important; text-align: center;}
+.Lead4 { background-color: #fee090 !important; text-align: center;}
+.Lead6 { background-color: #fc8d59 !important; text-align: center;}
+.Lead8 { background-color: #e46c6c !important; text-align: center;}
+.LeadConsult { background-color: #e0f3f8 !important; text-align: center;}
+.LeadNone {text-align: center; }
+/* end lead time colors */
+/*/////// packaging Options table styling //////////*/
+.alignBottom {
+	vertical-align: bottom !important;
+}
+.imageCell {
+	text-align: center;
+}
+table.packagingTableInner {
+	border: 1px solid white;
+	color: black;
+}
+table.packagingTableInner td{
+	border: 1px solid white;
+}
+.headerImage {
+	text-align:center;
+}
+.headerLastCell {
+	background-color: rgb(216, 224, 236);
+}
+.headerFirstCell {
+	background-color: rgb(216, 224, 236);
+}
+.headerImage {
+	background-color: rgb(216, 224, 236);
+}
+.headerLastCell {
+	vertical-align: bottom !important;
+	text-align:left;
+}
+.headerFirstCell {
+	vertical-align: bottom !important;
+	text-align:left;
+}
+a.packOptImage {
+	background: transparent url('http://www.lakeshore.com/PublishingImages/pack_option.png') left no-repeat; 
+	width: 106px;
+	height: 28px;
+	display: block;
+	text-indent: -99999px;
+}
+td.imageCell img {
+	margin: 0px !important;
+}
+img.po_Image {
+	height: auto;
+	width: 340px;
+}
+.packagingDeepInsideDataTable {
+	color: black;
+}
+/*////// home page //////*/
+/* center news */
+.newsDesc {
+	margin-left: 10px;
+	line-height: 1.6 !important;
+}
+.NewsLink {
+	margin-top: -12px;
+	margin-bottom: 11px;
+	margin-left: 10px;
+	line-height: 1.6 !important;
+}
+.newsTopLink {
+	font-weight:bold;
+	margin-left: 10px;
+	font-size: 14px;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	line-height: 1em;
+}
+.moreLink {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.centerNewsOutsideTable {
+	position: relative;
+	left: -4px;
+}
+.centerNewsImageCell {
+	vertical-align: top;
+}
+.rightRailHome {
+	padding-right: 5px;
+}
+/*////////// image rotator position fix /////////////*/
+<!--/*	padding-right:37px;
+}*/
+
+#PicturePlaceholder {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+}
+div.nav {
+	position: absolute;
+	top: 94px; /*275px;*/
+	z-index: 99;
+	width: 762px;
+}
+div.leftNav {
+	float: left;
+	font-size: 50px;
+}
+div.rightNav {
+	float: right;
+	font-size: 50px;
+}
+a.leftNavLink {
+	background: transparent url('/PublishingImages/ArrowLeft.png') left no-repeat !important; 
+	width: 31px !important;
+	height: 26px !important;
+	display: block !important;
+	text-indent: -99999px !important;
+	outline: 0 !important;
+}
+a.leftNavLink:hover {
+	background: transparent url('/PublishingImages/ArrowLeftHover.png') left no-repeat !important;
+	width: 31px !important;
+	height: 26px !important;
+	display: block !important; 
+}
+a.rightNavLink {
+	background: transparent url('/PublishingImages/ArrowRight.png') left no-repeat !important; 
+	width: 31px !important;
+	height: 26px !important;
+	display: block !important; 
+	text-indent: -99999px !important;
+	outline: 0 !important;
+}
+a.rightNavLink:active {
+	border: none !important;
+}
+a.rightNavLink:hover {
+	background: transparent url('/PublishingImages/ArrowRightHover.png') left no-repeat !important; 
+	width: 31px !important;
+	height: 26px !important;
+	display: block !important; 
+}
+/* --- CYCLE JQUERY --- */
+.slideshow {position:relative;height:50px;overflow: hidden;}
+.slideshow img {display:block;height:193px;padding:5px;border:1px solid #ccc;background-color:#eee;}
+.SlideshowText {padding-left:5px;margin-bottom:10px;height:20px;}
+/* modal popup window styling */
+.ms-dlgTitle {
+	background-color: #e2e2e2 !important;
+}
+div.pics {
+	top:-26px;
+}
+@-moz-document url-prefix(){
+#slideshow{right:31px;}
+div.pics{top:0;}
+ }
+/* fix wierd gap between top and second web parts in right rail */
+.ms-PartSpacingVertical {
+	margin: 0px !important;
+}
+/* left links web part on home page */
+div.groupheader{
+	font-weight: bold;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	padding-right: 5px !important;
+	padding-top: 10px !important;
+	font-weight: bold;
+	color: #313131;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+div.groupmarker {
+	margin-bottom: 10px;
+}
+
+
+ul.dfwp-list li{
+	margin: 4px 0px 0px 0px;
+	padding-right: 5px;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size:12px !important;
+}
+/* video page layout styles */
+.VideoZone {
+	text-align: center;
+}
+/* fix weird spacing issue around "discounted equipment" on home page */
+.link-item-large {
+	font-size: inherit;
+}
+/* recolor the "Discounted Equipment Link on the left rail in home page */
+.link-item-large a {
+	/*color: red !important;*/
+	font-size: 12px !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	vertical-align: top;
+	height: 10px;
+}
+	font-size: 12px !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	vertical-align: top;
+	height: 10px;
+}
+/* styles for the discounted equipment table */
+.deInnerTable {
+	color: black;
+	line-height: 1.8em;
+}
+.ms-vb deDescCell {
+	color: black;
+}
+.ms-vb {
+	color: black;
+}
+.wrapword{
+	white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+	white-space: -pre-wrap;   /* Opera 4-6 */
+	white-space: -o-pre-wrap;  /* Opera 7 */
+	white-space: pre-wrap;    /* css-3 */
+	word-wrap: break-word;    /* Internet Explorer 5.5+ */
+}
+.deEmailCell {
+	text-align: center;
+}
+.deInvCell {
+	text-align: center;
+}
+.dePriceCell {
+	text-align: center;
+}
+.deHead {
+	background-color: #0072bc;
+	text-align:center;
+	color: white !important;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px !important;
+	padding: 0px 0px 0px 5px;
+	line-height: 1.8em;
+	vertical-align: bottom !important;
+}
+/* styles for the repair tables */
+.rpInnerTable, .rp2InnerTable, .rp3OutterTable {
+	color: black;
+}
+/* fix one pixel issue on header */
+.ms-titlerowborder {
+	border: none !important;
+}
+.s4-title {
+	padding: 0px !important;
+}
+/* adjust image rotator on home page */
+#slideshowContentArea {
+	top: -3px;
+	right: -3px;
+}
+.homeBullets li{
+	margin-left: -25px;
+	list-style: square;
+	color: black;
+	margin-bottom: 5px;
+	font-weight: normal;
+}
+.prInnerTable {
+	margin-top: 10px;
+}
+/* end home page styles */
+/*adjust front and back panel link */
+span.frontPanel {
+	padding-left: 15px;
+}
+span.backPanel {
+	margin-right: 15px;
+}
+/* styles for info path forms */
+.l_7qitEFy4y4sTSIlu_0 {
+	border-collapse: separate !important;
+}
+/* adjust model landing image */
+.MLImageLink img{
+	height: auto;
+	width: 255px;
+	padding-top: 10px;
+	text-align: center;
+}
+/* change color of site actions drop down */
+.ms-menu-a {
+	color: white !important;
+}
+/* fix formatting on bottom of model landing */
+.bottomCell {
+	padding: 10px 0px 20px 0px;
+}
+.tableWrapperTag {
+	padding-right: 10px;
+}
+/* style on hidden login wrapper */
+div.customTopLeft {
+	text-align: right !important;
+	float: right !important;
+	position: relative;
+	top: 40px;
+}
+/*///////// sales rep web part ////////////*/
+.contactTable {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	vertical-align: top;
+	width:100%;
+}
+.informationTable {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	vertical-align: top;
+	width:100%;
+}
+.flagTable {
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	vertical-align: top;
+	width:100%;
+}
+.titleCell {
+	font-weight: bold;
+	font-size: 14px;
+}
+.noteCell {
+	font-weight: bold;
+	color: #4c7db7;
+}
+.flagCell3 {
+	text-align: center;
+	padding-bottom:5px;
+}
+.flagCell2 {
+	text-align: center;
+	padding-bottom:5px;
+}
+.flagCell1 {
+	text-align: center;
+	padding-bottom:5px;
+}
+.spacerCell {
+	height: 15px;
+}
+/* /// Press releases styles ///*/
+.page-title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+.article-content {
+	color: black;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+table.prInnerTable {
+	color: black;
+	margin-top: 10px;
+}
+
+/* faq styles */
+div.answer, div.Models {
+	color: black;
+}
+div.question, div.prodCats {
+	color: black;
+	background-color: #d8e0ec;
+	width: 100%;
+	display: block;
+	color: #2763a5;
+	cursor: pointer;
+	letter-spacing: normal;
+	padding: 4px 0px 4px 0px;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-left: 1px dotted #d7e1ef;
+	border-top: 1px dotted #d7e1ef;
+	font-weight: bold;
+}
+div.prodCatsHeader {
+	color:black;
+	background-color:#0072bc;
+	width: 100%;
+	display: block;
+	color: white;
+	letter-spacing: normal;
+	padding: 4px 0px 4px 0px;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-bottom: 4px;
+	font-size: 14px;
+}
+div.prodCats span, div.prodCatsHeader span {
+	padding-left: 8px;
+}
+div.faq .question:hover, div.prodCats:hover {
+	color: #008adf;
+	background-color: rgb(241, 245, 249);
+}
+div.faq .answer, div.Models {
+	padding: 6px 0px 8px 34px;
+}
+/* fix temp sensor prod landing */
+.indent {
+	padding-left: 25px;
+}
+/* site map/table-of-contents web part styling */
+.level-bullet {
+	background-image:none !important;
+	padding-left:13px;
+	margin-left:0px !important;
+	font-family:calibri;
+	font-size:10pt !important;
+	padding-top:2px !important;
+	padding-bottom:2px !important;
+}
+.headertitle-small a:link {
+	font-weight:normal;
+	font-family:calibri;
+	font-size:10pt;
+}
+/* end site map styles */
+/* product registration link on home page style fixes */
+div.ProdReg {
+	padding-top: 3px;
+	padding-left: 1px;
+}
+/* generic */
+.center {
+	text-align: center !important;
+}
+/* table style for ribbon created tables */
+.ms-rteTable6 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	border: 1px solid white;
+}
+.ms-rteTableHeaderFirstCol-6 {
+	border: 1px solid white;
+}
+/* fix line height of all table cells with these classes (which is nearly all) */
+.ms-vb, .accInc tr td {
+	line-height: 1.5em;
+}
+/* tranlate footer styles */
+.translateWrapper {
+	position:relative; 
+	height: 30px; 
+	border: none;
+	background-color:#5e5e5e;
+	width: 100%; 
+}
+.translateInner {
+	text-align: center; 
+	position: absolute; 
+	bottom: 5px; 
+	width: 100%;
+}
+.langLink {
+	cursor: hand;
+}
+/* end translate footer styles */
+.oiInnerTable {
+	margin-left: 1px;
+}
+.tspDataOutter {
+	padding: 5px;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Press Release fix */
+div.article {
+	padding: 10px 40px;
+}
+/* Transferred from head tag of ADV_Home master */
+		/* hide body scrolling (SharePoint will handle) */
+		body {height:100%;overflow:auto;width:100%;}
+		/* popout breadcrumb menu needs background color for firefox */
+		.s4-breadcrumb-menu {background:#ffffff;}
+		/* if you want to change the left nav width, change this and the margin-left in .s4-ca */
+		body #s4-leftpanel {/* width:155px; */}		
+		/* body area normally has a white background */
+		.s4-ca {background:white none repeat scroll 0 0 !important;margin-left:0px; background: transparent;}
+		/* fix scrolling on list pages */
+		#s4-bodyContainer {position: relative;}
+		/* Make left nav not display */	
+		#s4-leftpanel {display:none;}
+		/* Make top nav not display	*/
+		.menu-horizontal{ display: none;}
+		body #s4-ribbonrow {display: none;}
+		/*custom styles from Beth*/
+		#contact-us {font-family: Arial, sans-serif !important; font-size:14px !important; float: right; position: relative; display: block; text-align: center; line-height:30px; background-color: #d87900; color: #ffffff; margin: 0 0 0 10px; padding: 5px 5px 0 5px; width: 103px; height: 35px; }
+		#contact-us a {color:#FFFFFF !important; text-decoration: none !important;}
+		#contact-us a:hover {color:#003057 !important;}
+		#social-search {float: right; border:0px #ffffff none !important}
+		/*giving long left menu some left padding*/
+		.slm-layout-main {padding-left:19px !important;}
+		/*getting rid of weird search box lines*/
+		.s4-search INPUT.ms-sbplain {border:0px #FFFFFF none !important;}
+		#SmallSearchInputBoxCustom {background: url('/PublishingImages/search.png') left no-repeat;}
+		/*.tab1 li a {color: white !important;}
+		.tab2 li a {color: white !important;}
+		.tab3 li a {color: #d87900 !important;}
+		.tab4 li a {color: white !important;}*/
+		.linehere {font-size:0px !important;}
+		#mainlogo {width:247px; cursor:pointer; height:58px; background:url('/publishingimages/logosocial.png') 0 0;}
+		#advancingscience {width:247px; height:14px; background:url('/publishingimages/logosocial.png') 0 -58px;}
+		#sociallist {position:relative}
+		#sociallist li{margin:0;padding:0;list-style:none;position:absolute;top:0;}
+		#sociallist li, #sociallist a{height:24px;display:block;}
+		#facebook {left:0px;width:18px;}
+		#facebook {background:url('/publishingimages/logosocial.png') -247px 0;}
+		#twitter {left:18px;width:34px;}
+		#twitter {background:url('/publishingimages/logosocial.png') -265px 0;}
+		#youtube {left:52px;width:34px;}
+		#youtube {background:url('/publishingimages/logosocial.png') -299px 0;}
+		#linkedin {left:86px;width:33px;}
+		#linkedin {background:url('/publishingimages/logosocial.png') -333px 0;}
+		#googleplus {left:119px;width:28px;}
+		#googleplus {background:url('/publishingimages/logosocial.png') -366px 0;}
+		#translatelist{position:relative;}
+		#translatelist li{margin:0;padding:0;list-style:none;position:absolute;top:0;}
+		#translatelist li, #translatelist a{height:15px;display:block;}
+		#afrikaans{left:0px;width:22px;}
+		#afrikaans{background:url('/PublishingImages/Flags15tall.png') 0 0;}
+		#arabic{left:26px;width:22px;}
+		#arabic{background:url('/PublishingImages/Flags15tall.png') -22px 0;}
+		#czech{left:52px;width:22px;}
+		#czech{background:url('/PublishingImages/Flags15tall.png') -44px 0;}
+		#dutch{left:78px;width:22px;}
+		#dutch{background:url('/PublishingImages/Flags15tall.png') -66px 0;}
+		#finnish{left:104px;width:22px;}
+		#finnish{background:url('/PublishingImages/Flags15tall.png') -88px 0;}
+		#french{left:130px;width:22px;}
+		#french{background:url('/PublishingImages/Flags15tall.png') -110px 0;}
+		#german{left:156px;width:22px;}
+		#german{background:url('/PublishingImages/Flags15tall.png') -132px 0;}
+		#hindi{left:182px;width:22px;}
+		#hindi{background:url('/PublishingImages/Flags15tall.png') -154px 0;}
+		#hungarian{left:208px;width:22px;}
+		#hungarian{background:url('/PublishingImages/Flags15tall.png') -176px 0;}
+		#indonesian{left:234px;width:22px;}
+		#indonesian{background:url('/PublishingImages/Flags15tall.png') -198px 0;}
+		#italian{left:260px;width:22px;}
+		#italian{background:url('/PublishingImages/Flags15tall.png') -220px 0;}
+		#japanese{left:286px;width:22px;}
+		#japanese{background:url('/PublishingImages/Flags15tall.png') -242px 0;}
+		#korean{left:312px;width:22px;}
+		#korean{background:url('/PublishingImages/Flags15tall.png') -264px 0;}
+		#malay{left:338px;width:22px;}
+		#malay{background:url('/PublishingImages/Flags15tall.png') -286px 0;}
+		#norwegian{left:364px;width:22px;}
+		#norwegian{background:url('/PublishingImages/Flags15tall.png') -308px 0;}
+		#polish{left:390px;width:22px;}
+		#polish{background:url('/PublishingImages/Flags15tall.png') -330px 0;}
+		#portuguese{left:416px;width:22px;}
+		#portuguese{background:url('/PublishingImages/Flags15tall.png') -352px 0;}
+		#romanian{left:442px;width:22px;}
+		#romanian{background:url('/PublishingImages/Flags15tall.png') -374px 0;}
+		#russian{left:468px;width:22px;}
+		#russian{background:url('/PublishingImages/Flags15tall.png') -396px 0;}
+		#schinese{left:494px;width:22px;}
+		#schinese{background:url('/PublishingImages/Flags15tall.png') -418px 0;}
+		#slovak{left:520px;width:22px;}
+		#slovak{background:url('/PublishingImages/Flags15tall.png') -440px 0;}
+		#spanish{left:546px;width:22px;}
+		#spanish{background:url('/PublishingImages/Flags15tall.png') -462px 0;}
+		#swedish{left:572px;width:22px;}
+		#swedish{background:url('/PublishingImages/Flags15tall.png') -484px 0;}
+		#thai{left:598px;width:22px;}
+		#thai{background:url('/PublishingImages/Flags15tall.png') -506px 0;}
+		#turkish{left:624px;width:22px;}
+		#turkish{background:url('/PublishingImages/Flags15tall.png') -528px 0;}
+		#ukranian{left:650px;width:22px;}
+		#ukranian{background:url('/PublishingImages/Flags15tall.png') -550px 0;}
+		#vietnamese{left:676px;width:22px;}
+		#vietnamese{background:url('/PublishingImages/Flags15tall.png') -572px 0;}
+		.langLink {cursor: hand;}
+		
+		
+		
+		
+		/* TOP NAVIGATION STYLES */
+		
+		
+		
+.RadMenu_SP2007TopLevelNavigation
+{
+	background:#ffffff !important;
+	font-weight: bold !important;
+	font-size: 15px !important;
+	padding: 6px 0px 0px 0px !important;
+	font-family: Calibri, Helvetica, sans-serif;
+	}
+
+.RadMenu_SP2007TopLevelNavigation_Context
+{
+	background:none;
+	padding:0;
+}
+
+.RadMenu_SP2007TopLevelNavigation .link
+{
+	color:#003057 !important;
+	text-decoration:none;
+	padding: 2px 8px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .topLevelMenuItem
+{
+	border:1px none #ffffff !important;
+	background: #ffffff !important;
+	margin-left: 0px;
+}
+
+#ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_g_48fe8427_7eff_4218_bddf_395c1338d461_g_48fe8427_7eff_4218_bddf_395c1338d461CascadingMenu_m0:hover,
+#ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_g_48fe8427_7eff_4218_bddf_395c1338d461_g_48fe8427_7eff_4218_bddf_395c1338d461CascadingMenu_m1:hover,
+#ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_g_48fe8427_7eff_4218_bddf_395c1338d461_g_48fe8427_7eff_4218_bddf_395c1338d461CascadingMenu_m3:hover,
+#ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_g_48fe8427_7eff_4218_bddf_395c1338d461_g_48fe8427_7eff_4218_bddf_395c1338d461CascadingMenu_m4:hover
+{
+	background:#999999 !important;
+}
+
+
+
+
+
+.link .topLevelMenuItem:hover
+{
+	background: #999999 !important;
+	border:1px none #ffd26e;
+	color: black !important;	
+}
+
+.RadMenu_SP2007TopLevelNavigation .currentTopLevelMenuItem
+{
+	border:1px none #999999 !important;
+	background: #f2f2f2!important;
+	margin-left: 0px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .rootGroup .vertical .separator 
+{
+	padding:0;
+	margin:0px 0;
+}
+
+.RadMenu_SP2007TopLevelNavigation .rootGroup .vertical .separator span.text
+{
+	border-top:1px none #999999 !important;
+	margin-left: 28px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .rootGroup .focused,
+.RadMenu_SP2007TopLevelNavigation .rootGroup .link:hover
+{
+	background: #FFFFFF !important;
+	border:1px none #FFFFFF ;
+	text-decoration:none;
+	color: black !important;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.RadMenu_SP2007TopLevelNavigation .link:hover
+{
+	background: #999999 !important;
+	border:1px none #FFFFFF ;
+	text-decoration:none;
+	color: black !important;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.RadMenu_SP2007TopLevelNavigation .rootGroup .disabled:hover,
+.RadMenu_SP2007TopLevelNavigation .rootGroup .disabled
+{
+	background:none;
+	border:0;
+	padding:3px 8px;	
+	color: #666;
+}
+
+.RadMenu_SP2007TopLevelNavigation .horizontal .expanded,
+.RadMenu_SP2007TopLevelNavigation .horizontal .expanded:hover
+{
+	background: #999999 !important;
+	border:1px none #ffd26e;
+	color: black !important;	
+}
+
+.RadMenu_SP2007TopLevelNavigation .vertical .expanded,
+.RadMenu_SP2007TopLevelNavigation .vertical .expanded:hover
+{
+	background:#fff000 left top repeat-x;
+	border:1px none #999999;
+	padding:2px 7px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group
+{
+	border:1px none;
+	float:left;
+	background: #cccccc !important;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group .link
+{
+	padding:2px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group .item
+{
+	margin:0;
+	padding:0px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group .link:hover,
+.RadMenu_SP2007TopLevelNavigation .group .focused,
+.RadMenu_SP2007TopLevelNavigation .group .expanded
+{
+	background-color:#cccccc;
+	background-image:none;
+	border:1px solid #cccccc !important;
+	padding:0px;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group .disabled:hover,
+.RadMenu_SP2007TopLevelNavigation .group .disabled
+{
+	background-color:transparent;
+	background-image:none;
+	border:0;
+	padding:2px;
+	color: #ccc;
+}
+
+.RadMenu_SP2007TopLevelNavigation .group .text
+{
+	padding-left:25px;
+	text-align:left;
+	padding-right:46px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .expandLeft,
+.RadMenu_SP2007TopLevelNavigation .expandRight
+{
+	background:transparent url(file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/PMTPPSQL/img/groupImage.gif) right center no-repeat;
+	padding-right:10px;
+}
+
+.RadMenu_SP2007TopLevelNavigation_rtl .expandLeft,
+.RadMenu_SP2007TopLevelNavigation_rtl .expandRight
+{
+	background:transparent url(file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/PMTPPSQL/img/groupImageRTL.gif) left center no-repeat;
+}
+
+.RadMenu_SP2007TopLevelNavigation .topArrow,
+.RadMenu_SP2007TopLevelNavigation .topArrowDisabled,
+.RadMenu_SP2007TopLevelNavigation .rightArrow,
+.RadMenu_SP2007TopLevelNavigation .rightArrowDisabled,
+.RadMenu_SP2007TopLevelNavigation .leftArrow,
+.RadMenu_SP2007TopLevelNavigation .leftArrowDisabled,
+.RadMenu_SP2007TopLevelNavigation .bottomArrow,
+.RadMenu_SP2007TopLevelNavigation .bottomArrowDisabled
+{
+	height:16px;
+}
+
+.RadMenu_SP2007TopLevelNavigation .rightArrow,
+.RadMenu_SP2007TopLevelNavigation .rightArrowDisabled
+{
+	background: #F6F6F6 url('file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PMTPPSQL/img/right.gif') center center no-repeat;
+	width:25px;
+	height:100%;
+}
+
+.RadMenu_SP2007TopLevelNavigation .leftArrow,
+.RadMenu_SP2007TopLevelNavigation .lefttArrowDisabled
+{
+	background: #F6F6F6 url('file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PMTPPSQL/img/left.gif') center center no-repeat;
+	width:25px;
+	height:100%;
+}
+
+.RadMenu_SP2007TopLevelNavigation .topArrow,
+.RadMenu_SP2007TopLevelNavigation .topArrowDisabled
+{
+	background: #f2f2f2 url('file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PMTPPSQL/img/top.gif') center center no-repeat;
+	width: 100%;
+}
+
+.RadMenu_SP2007TopLevelNavigation .bottomArrow,
+.RadMenu_SP2007TopLevelNavigation .bottomArrowDisabled
+{
+	background: #f2f2f2 url('file:///C|/Users/cmilyard/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PMTPPSQL/img/bottom.gif') center center no-repeat;
+	width: 100%;
+}
+
+.radmenu a:hover {
+	background-color: white;
+	color: black;
+}
+
+/* Carousel styles */
+
+#container {height:200px; width:762px; font-family:Tahoma; position: relative; padding-bottom:30px; padding-top:10px; padding-right:37px;}
+#carousel { height:198px; width:762px; overflow:hidden; background: url('/_layouts/images/loading.gif') no-repeat center center; position: relative;}
+#carousel img{ width:760px; height:198px; border:1px solid #ccc;float:left;}
+#selectNav a {cursor: pointer; display: inline-block; width:11px; height:11px; background-repeat:no-repeat; background-image:url('../Style Library/StrategyCenterBranding/Images/CMS/feature_selector_off.png');}
+#selectNav a:hover, #selectNav a.selected {background-image:url('../Style Library/StrategyCenterBranding/Images/CMS/feature_selector_on.png');}
+#selectNav {text-align:center; padding-top: 5px;}
+
