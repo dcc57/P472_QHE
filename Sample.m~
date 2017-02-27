@@ -88,7 +88,7 @@ mean(X)
 %% DATA ANALYSIS
 
 R = 1000; %Ohms
-Q = 6.62607004E-34 * (1.60217662E-19)^(-2); %[h/e^2] = Ohms
+Q = 6.62607004E-34 * ( 1.60217662E-19)^(-2); %[h/e^2] = Ohms
 Ohms2Q = 1/Q;
 
 Current = V1 ./ R;
@@ -102,7 +102,7 @@ hold on
 plot(T, RLong)
 title('Longitudinal Resistance Across Semiconductor Vs. Time','Interpreter','latex')
 xlabel('Time (s)','Interpreter','latex')
-ylabel('$\rho_{xx}$ $({h}/{e^2})$','Interpreter','latex')
+ylabel('$\rho_{xx}$ $(\Omega)$','Interpreter','latex')
 hold off
 
 figure(2)
@@ -110,5 +110,5 @@ hold on
 plot(T, RTran)
 title('Transverse Resistance Across Semiconductor Vs. Time','Interpreter','latex')
 xlabel('Time (s)','Interpreter','latex')
-ylabel('$\rho_{xy}$ $({h}/{e^2})$','Interpreter','latex')
+ylabel('$\rho_{xy}$ $(\frac{h}{e^2})$','Interpreter','latex')
 hold off
