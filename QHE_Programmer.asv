@@ -76,18 +76,15 @@ i = 0;
 MaxTime = 1500; %Seconds
 dT = 0.5; %Seconds
 T = zeros(ceil(MaxTime/dT),1);
-B  = T;
 V1 = T;
 V2 = T;
 V3 = T;
 while T(ceil(MaxTime/dT)) == 0
     pause(dT - 0.0222)
     i = i + 1;
-    fprintf(gpower, 'FIELD:MAG?;')
     fprintf(glock1,'OUTR? 1');
     fprintf(glock2,'OUTR? 1');
     fprintf(glock3,'OUTR? 1');
-    B(i)  = str2double(fscanf(gpower));
     V1(i) = str2double(fscanf(glock1));
     V2(i) = str2double(fscanf(glock2));
     V3(i) = str2double(fscanf(glock3));
