@@ -73,7 +73,7 @@ out = fscanf(gpower)
 close all
 tic
 i = 0;
-MaxTime = 10; %Seconds
+MaxTime = 69; %Seconds
 dT = 0.5; %Seconds
 T = zeros(ceil(MaxTime/dT),1);
 B  = T;
@@ -85,11 +85,11 @@ hold on
 %plot(T,B,T,V1,T,V2,T,V3)
 %fprintf(gpower, 'RAMP;')
 hB = animatedline;
-h1 = 
-h2
-h3
+h1 = animatedline;
+h2 = animatedline;
+h3 = animatedline;
 while T(ceil(MaxTime/dT)) == 0
-    pause(dT  - 0.034908791855932)
+    pause(dT  - 0.034908791855932 - 0.026782709257353)
     i = i + 1;
     fprintf(gpower, 'FIELD:MAG?;')
     fprintf(glock1,'OUTR? 1');
@@ -101,6 +101,9 @@ while T(ceil(MaxTime/dT)) == 0
     V3(i) = str2double(fscanf(glock3));
     T(i) = toc;
     addpoints(hB,T(i),B(i))
+    addpoints(h1,T(i),100 * V1(i))
+    addpoints(h2,T(i),100 * V2(i))
+    addpoints(h3,T(i),100 * V3(i))
     drawnow
 end
 hold off
@@ -122,6 +125,8 @@ Ohms2Q = 1/Q;
 Current = V1 ./ R;
 RLong = Ohms2Q * V2 ./ Current;
 RTran = Ohms2Q * V3 ./ Current;
+
+save 
 
 %% DATA PLOTALYSIS
 
