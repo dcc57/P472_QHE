@@ -2,6 +2,10 @@ clear
 
 format long
 
+%% RUN NUMBER RESET
+
+RunNumber = 0;
+
 %instrhwinfo('visa','ni')
 %% OPEN POWER SUPPLY PROGRAMMER
 gpower = visa('ni', 'GPIB0::22::INSTR');
@@ -38,42 +42,11 @@ delete(glock2);
 fclose(glock3);
 delete(glock3);
 
-%% LOCKIN1 SET OUTPUT
-Vout = 0.005;
-fout = 100;
-
-
-A = ['SLVL ',num2str(Vout)];
-B = ['FREQ ',num2str(fout)];
-fprintf(glock1,A);
-fprintf(glock1,B);
-
-%% LOCKIN1 READ SIGNAL
-
-fprintf(glock1,'OUTR? 1');
-Vin = fscanf(glock1)
-fprintf(glock1,'OUTR? 2');
-Deg = fscanf(glock1)
-
-
-%% Power Supply Command
-fprintf(gpower, 'FIELD:MAG?;')
-%out = fscanf(gpower)
-%fprintf(gpower, 'SYST:ERR?;')
-out = fscanf(gpower)
-%fprintf(gpower, 'CONF:RAMP:RATE:CURR 0.02')
-
-
-%% Power Supply Errors
-fprintf(gpower, 'SYST:ERR?;')
-out = fscanf(gpower)
-
-
 %% MEASUREMENT
 close all
 tic
 i = 0;
-MaxTime = 10; %Seconds
+MaxTime = 800; %Seconds
 dT = 0.5; %Seconds
 T = zeros(ceil(MaxTime/dT),1);
 B  = T;
@@ -92,8 +65,9 @@ figure(5)
 h2 = animatedline;
 figure(6)
 h3 = animatedline;
+RunNumber = RunNumber + 1;
 while T(ceil(MaxTime/dT)) == 0
-    pause(dT  - 0.034908791855932 - 0.026782709257353 - 0.000738400974576 - 0.012466453055555)
+    pause(dT - 0.061908834472458)
     i = i + 1;
     fprintf(gpower, 'FIELD:MAG?;')
     fprintf(glock1,'OUTR? 1');
@@ -127,13 +101,18 @@ Q = 6.62607004E-34 * (1.60217662E-19)^(-2); %[h/e^2] = Ohms
 Ohms2Q = 1/Q;
 
 Current = V1 ./ R;
-RLong = Ohms2Q * V2 ./ Current;
-RTran = Ohms2Q * V3 ./ Current;
+RLong = Ohms2Q * V3 ./ Current;
+RTran = Ohms2Q * V2 ./ Current;
 
-save RLong RLong
-save RTran RTran
-save B B
-save Current Current
+P = ['RLong',num2str(RunNumber)];
+Q = ['RTran',num2str(RunNumber)];
+R = ['B',num2str(RunNumber)];
+S = ['Current',num2str(RunNumber)];
+
+save(P,'RLong')
+save(Q,'RTran')
+save(R,'B')
+save(S,'Current')
 
 %% DATA PLOTALYSIS
 
