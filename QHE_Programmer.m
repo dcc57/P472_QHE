@@ -24,7 +24,7 @@ glock2 = visa('ni', 'GPIB0::1::INSTR');
 fopen(glock2);
 
 %% OPEN LOCKIN3
-glock3 = visa('ni', 'GPIB0::2::INSTR');
+glock3 = visa('ni', 'GPIB0::8::INSTR');
 fopen(glock3);
 
 %% CLOSE LOCKIN1
@@ -96,7 +96,7 @@ mean(X)
 
 %% DATA ANALYSIS
 
-R = 1000; %Ohms
+R = 4.7E3; %Ohms
 Q = 6.62607004E-34 * (1.60217662E-19)^(-2); %[h/e^2] = Ohms
 Ohms2Q = 1/Q;
 
